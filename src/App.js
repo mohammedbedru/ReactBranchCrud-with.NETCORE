@@ -14,7 +14,6 @@ const App = () => {
 
   toastr.options = {
     closeButton: true,
-    // progressBar: true,
   };
 
   useEffect(() => {
